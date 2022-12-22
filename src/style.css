@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+}
+.header{
+  margin: 0;
+  background-color: black;
+  color: white;
+}
+.header-h1{
+  font-size: 20px;
+}
+.hello-h1{
+  font-size: 20px;
+}
+
+.temp{
+  text-align: center;
+  width:80%;
+  margin: auto;
+}
+.table-content{
+  width: 80%;
+  margin:"auto";
+  text-align: center;
+}
+.table{
+  width: 100%;
+  margin:"auto";
+}
+.table-content h1{
+  font-size: 20px;
+}
