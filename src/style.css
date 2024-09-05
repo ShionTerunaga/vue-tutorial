@@ -1,32 +1,32 @@
-*{
+* {
   margin: 0;
 }
-.header{
+.header {
   margin: 0;
   background-color: black;
   color: white;
 }
-.header-h1{
+.header-h1 {
   font-size: 20px;
 }
-.hello-h1{
+.hello-h1 {
   font-size: 20px;
 }
 
-.temp{
+.temp {
   text-align: center;
-  width:80%;
+  width: 80%;
   margin: auto;
 }
-.table-content{
+.table-content {
   width: 80%;
-  margin:"auto";
+  margin: "auto";
   text-align: center;
 }
-.table{
+.table {
   width: 100%;
-  margin:"auto";
+  margin: "auto";
 }
-.table-content h1{
+.table-content h1 {
   font-size: 20px;
 }
